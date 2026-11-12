@@ -318,21 +318,5 @@ Based on these findings, ROADLINK is proposed as a road disruption reporting and
 
 7. World Bank. (2025, June 25). *Transforming Kigali’s urban mobility to improve commutes and create jobs*. [https://www.worldbank.org/en/news/press-release/2025/06/25/transforming-afe-kigali-urban-mobility-to-improve-commutes-and-create-jobs](https://www.worldbank.org/en/news/press-release/2025/06/25/transforming-afe-kigali-urban-mobility-to-improve-commutes-and-create-jobs)
 
----
 
-## 10. Research Completion Checklist
-
-- [x] At least two research papers identified.
-- [x] Rwanda report/statistics identified.
-- [x] Existing road reporting system reviewed.
-- [x] Rwanda road-network dataset identified.
-- [x] Oracle technical documentation identified.
-- [x] Research findings connected to the ROADLINK project.
-- [x] Research gap described.
-- [ ] Download and inspect the RTDA road-network data.
-- [ ] Record the actual dataset download date and number of extracted features.
-- [ ] Save copies of the research papers and reports where access permits.
-- [ ] Add any additional sources discovered during project development.
-
-**End of Research Log**
 
